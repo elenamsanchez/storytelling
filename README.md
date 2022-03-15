@@ -2,9 +2,9 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: ECOnejo Adventures
 
-Proyecto (código): 
+Proyecto (código): 22-3
 
 
 ## Resumen
