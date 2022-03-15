@@ -2,7 +2,7 @@
 
 # Proyecto ECOnejo (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo:  por favor
 
 Proyecto (código): 
 
